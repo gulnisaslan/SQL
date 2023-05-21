@@ -1,0 +1,3 @@
+SELECT DAY(GETDATE()),
+       MONTH(GETDATE()),
+       YEAR(GETDATE())
